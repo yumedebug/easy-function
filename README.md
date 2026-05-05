@@ -52,4 +52,4 @@
 ## コンパイル方法（開発者向け）
 
 ```bash
-g++ main.cpp -o "太郎の日常便利ツール.exe" -static -O2
+g++ main.cpp -o "functionver2.exe" -static -O2
